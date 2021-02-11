@@ -1,5 +1,5 @@
 # Software-Development
-Skills Union Software Development pratical and workshop materials.
+Skills Union Software Development practical and workshop materials.
 
 ## Modules
 module02 - Programming Fundamentals
