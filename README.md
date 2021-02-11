@@ -2,10 +2,10 @@
 Skills Union Software Development practical and workshop materials.
 
 ## Modules
-module02 - Programming Fundamentals
-module03 - Web Development
-module04 - Application Development
-module05 - Data Science
+module02 - Programming Fundamentals  
+module03 - Web Development  
+module04 - Application Development  
+module05 - Data Science  
 
 ## Structure
 \module02\workshop01\
